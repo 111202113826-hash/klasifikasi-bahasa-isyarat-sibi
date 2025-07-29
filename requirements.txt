@@ -1,0 +1,9 @@
+numpy
+Pillow
+matplotlib
+opencv-python
+ultralytics
+tqdm
+icrawler
+streamlit
+watchdog
